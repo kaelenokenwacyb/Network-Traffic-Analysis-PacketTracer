@@ -1,8 +1,8 @@
 # Network-Traffic-Analysis
-This project demonstrates my guided experience analyzing network traffic using Wireshark. I captured and examined packets to understand how common protocols operate and how data flows across a network.
+This project demonstrates my guided experience analyzing network traffic using Wireshark and Packet Tracer. I captured and examined packets to understand how common protocols operate and how data flows across a network.
 
 Overview
-- This project showcases my experience using Packet Tracer to simulate and analyze network behavior. Through guided labs, I
+- This half of the project showcases my experience using Packet Tracer to simulate and analyze network behavior. Through guided labs, I
 configured and tested network components to better undetstand how devices communicate across local and wide area networks
 
 Objectives:
