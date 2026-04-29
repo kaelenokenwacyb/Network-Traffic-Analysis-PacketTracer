@@ -3,7 +3,13 @@ This project demonstrates my guided experience analyzing network traffic using W
 
 Overview
 - This half of the project showcases my experience using Packet Tracer to simulate and analyze network behavior. Through guided labs, I
-configured and tested network components to better undetstand how devices communicate across local and wide area networks
+configured and tested network components to better understand how devices communicate across local and wide area networks
+
+Problem
+- Devices across multiple networks were unable to communicate due to incorrect IP addressing and routing configuration.
+
+Solution
+- Being able to demonstrate efficiency with setting IP addresses, identifying incorrecy subnet configurations, verifying routing between networks, and testing connectivity between newtorks ucing ICMP
 
 Objectives:
 - Understand IP addressing and subnetting across multiple networks
